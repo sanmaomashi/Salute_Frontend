@@ -29,7 +29,6 @@
   * [CSS 预处理器](sections/CSS/8.CSS 预处理器.md)
   * [CSS 框架和库](sections/CSS/9.CSS 框架和库.md)
   * [最佳实践和性能优化](sections/CSS/10.最佳实践和性能优化.md)
-
 - Javascript
   * [概述](sections/Javascript/1.概述.md)
   * [基础知识](sections/Javascript/2.基础知识.md)
@@ -38,7 +37,6 @@
   * [DOM操作](sections/Javascript/5.DOM操作.md)
   * [Ajax和异步编程](sections/Javascript/6.Ajax和异步编程.md)
   * [ES6新特性](sections/Javascript/7.ES6新特性.md)
-
 - jQuery
   * [概述](sections/jQuery/1.概述.md)
   * [jQuery选择器](sections/jQuery/2.jQuery选择器.md)
@@ -47,14 +45,11 @@
   * [jQuery DOM操作](sections/jQuery/5.jQuery DOM操作.md)
   * [jQuery AJAX](sections/jQuery/6.jQuery AJAX.md)
   * [jQuery插件开发](sections/jQuery/7.jQuery插件开发.md)
-
 - VUE
   * [概述](sections/VUE/1.概述.md)
-  * [环境搭建与入门](sections/VUE/2.环境搭建与入门.md)
+  * [环境搭建](sections/VUE/2.环境搭建与入门.md)
   * [Vue.js基础](sections/VUE/3.Vue基础.md)
   * [组件化开发](sections/VUE/4.组件化开发.md)
   * [Vue Router](sections/VUE/5.VueRouter.md)
   * [Vuex状态管理](sections/VUE/6.Vuex状态管理.md)
   * [Vue.js测试与调试](sections/VUE/7.Vue.js测试与调试.md)
-  * [Vue项目实战](sections/VUE/8.Vue项目实战.md)
-
