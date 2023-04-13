@@ -42,4 +42,4 @@
   * [组件化开发](sections/VUE/4.组件化开发.md)
   * [Vue Router](sections/VUE/5.VueRouter.md)
   * [Vuex状态管理](sections/VUE/6.Vuex状态管理.md)
-  * [Vue.js测试与调试](sections/VUE/7.Vue.js测试与调试.md)
+  * [Vue.js测试与调试](sections/VUE/7.Vue.js测试与调试.md) 
